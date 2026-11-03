@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.gif" alt="Welcome to YXX's Agent" width="640">
+  <img src="assets/banner.gif" alt="Welcome to YXX's Agent" width="100%">
 </div>
 
 # 嗨，我是 YXX 👋
