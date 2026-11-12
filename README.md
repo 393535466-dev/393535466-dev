@@ -1,31 +1,28 @@
 <div align="center">
-
-# 杨轩 / YXX
-
-**AI 产品经理 · AIGC 应用与具身智能数据平台**
-
-### [查看我的个人作品集 ↗](https://393535466-dev.github.io/NEW-/)
-
-[![杨轩个人作品集封面](assets/portfolio-cover.png)](https://393535466-dev.github.io/NEW-/)
-
+  <img src="assets/banner.gif" alt="Welcome to YXX's Agent" width="100%">
 </div>
 
-从空间设计转向 AI 产品。长期直接面对客户、方案修改与项目交付，随后将 ComfyUI、Dify 用于设计工作，参与 AIGC 应用和人体动作数据流程建设。
+# 嗨，我是 YXX 👋
 
-我关注两件事：生成结果能不能用，数据标准能不能让不同的人执行一致。
+我叫杨轩，一名从设计师转型而来的 AI 产品经理。
 
-### 项目
+我拥有设计背景：曾参与 **万科**、**远洋**、**Anaya** 以及其他商业客户的项目。后来我创办了自己的工作室，成为一名独立设计师。现在，我正专注于探索 AI 产品开发的可能性。
 
-- **人体动作数据**：梳理采集任务、动作标注规范、数据质检与失败案例，协作服务机器人训练。
-- **AIGC 出图**：搭建 ComfyUI 工作流，比较图像效果，以可用初稿、返工时间和成本检查结果。
-- **AI 工具与 Agent 应用**：知识库、提示词与文档模板，以及 AI 辅助页面制作和日常任务处理。
+我关注 AI、设计，以及技术如何回应真实的人与需求。从设计到产品，我始终保持好奇、热情、坚持与极客精神。
 
-### 工具
+我会在这里分享项目、探索想法、记录学习，也期待与正在创造未来的人交流。
 
-ComfyUI · Dify · Figma · Codex · Claude · 飞书
+- 🎨 设计师
+- 🤖 AI 产品经理
+- 🧠 探索 AI × 设计 × 产品
+- 🚀 欢迎项目合作与有价值的交流
 
 ---
 
-**[个人作品集与完整简历](https://393535466-dev.github.io/NEW-/)** · [作品集源码](https://github.com/393535466-dev/NEW-) · [飞书简历](https://my.feishu.cn/wiki/PCh6wa1Q9i97J8kgG5Vcrl89nYg)
+<div align="center">
 
-联系：**[393535466@qq.com](mailto:393535466@qq.com)**
+**🔗 [YXX's Agent — 个人主页](https://393535466-dev.github.io/)**
+
+📮 393535466@qq.com
+
+</div>
