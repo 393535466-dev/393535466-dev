@@ -51,7 +51,7 @@
 <!-- PROJECT-COVERS:START -->
 <h2 align="center">精选项目</h2>
 
-<p align="center">点击封面，查看对应项目仓库。</p>
+<p align="center">点击封面查看项目，或观看「掌控」宣传片。</p>
 
 <table width="100%">
   <tr>
@@ -59,7 +59,7 @@
       <a href="https://github.com/393535466-dev/Embodied-Data-Analysis-and-Movement-Assessment1113"><img src="https://raw.githubusercontent.com/393535466-dev/393535466-dev/085f42165989714257e442bb60bbb12260ded561/assets/projects/embodied-ai.png" alt="具身智能" width="100%"></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/393535466-dev/iphone-computer-next#掌控-palm-control--产品宣传片" title="观看掌控宣传片（私有仓库，需访问权限）"><img src="https://raw.githubusercontent.com/393535466-dev/393535466-dev/085f42165989714257e442bb60bbb12260ded561/assets/projects/palm-control.png" alt="掌控" width="100%"></a>
+      <a href="https://393535466-dev.github.io/assets/Palm-Control-Promo.mp4" title="观看掌控宣传片"><img src="https://raw.githubusercontent.com/393535466-dev/393535466-dev/085f42165989714257e442bb60bbb12260ded561/assets/projects/palm-control.png" alt="掌控" width="100%"></a>
     </td>
   </tr>
   <tr>
