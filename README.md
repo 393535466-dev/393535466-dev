@@ -13,6 +13,45 @@
 
 <p align="center"><br><br></p>
 
+<!-- PROJECT-COVERS:START -->
+<h2 align="center">精选项目</h2>
+
+<p align="center">点击封面，查看对应项目仓库。</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/393535466-dev/Embodied-Data-Analysis-and-Movement-Assessment1113"><img src="assets/projects/embodied-ai.png" alt="具身智能 · 动作仿真与评测 · 点击查看仓库" width="100%"></a>
+      <br>
+      <a href="https://github.com/393535466-dev/Embodied-Data-Analysis-and-Movement-Assessment1113"><strong>具身智能</strong></a><br>
+      <sub>动作仿真与评测</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/393535466-dev/iphone-computer-next"><img src="assets/projects/palm-control.png" alt="掌控 · 手机控制 Mac · 私有仓库，需访问权限 · 点击查看仓库" width="100%"></a>
+      <br>
+      <a href="https://github.com/393535466-dev/iphone-computer-next"><strong>掌控</strong></a><br>
+      <sub>手机控制 Mac · 私有仓库，需访问权限</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/393535466-dev/-GU1112"><img src="assets/projects/lazy-stock.png" alt="懒人识股 · A 股筛选与分析 · 点击查看仓库" width="100%"></a>
+      <br>
+      <a href="https://github.com/393535466-dev/-GU1112"><strong>懒人识股</strong></a><br>
+      <sub>A 股筛选与分析</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/393535466-dev/Scabby-Head-1105"><img src="assets/projects/brain-fart.png" alt="臭脑子 · 灵感记录与创作 · 点击查看仓库" width="100%"></a>
+      <br>
+      <a href="https://github.com/393535466-dev/Scabby-Head-1105"><strong>臭脑子</strong></a><br>
+      <sub>灵感记录与创作</sub>
+    </td>
+  </tr>
+</table>
+<!-- PROJECT-COVERS:END -->
+
+<p align="center"><br><br></p>
+
 <h2 align="center">🧭 关于我</h2>
 
 <p align="center">我关注 AI、设计，以及技术如何回应真实的人与需求。<br>从设计到产品，我始终保持好奇、热情、坚持与极客精神。</p>
