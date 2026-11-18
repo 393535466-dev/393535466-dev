@@ -56,30 +56,18 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/393535466-dev/Embodied-Data-Analysis-and-Movement-Assessment1113"><img src="assets/projects/embodied-ai.png" alt="具身智能 · 动作仿真与评测 · 点击查看仓库" width="100%"></a>
-      <br>
-      <a href="https://github.com/393535466-dev/Embodied-Data-Analysis-and-Movement-Assessment1113"><strong>具身智能</strong></a><br>
-      <sub>动作仿真与评测</sub>
+      <a href="https://github.com/393535466-dev/Embodied-Data-Analysis-and-Movement-Assessment1113"><img src="https://raw.githubusercontent.com/393535466-dev/393535466-dev/085f42165989714257e442bb60bbb12260ded561/assets/projects/embodied-ai.png" alt="具身智能" width="100%"></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/393535466-dev/iphone-computer-next"><img src="assets/projects/palm-control.png" alt="掌控 · 手机控制 Mac · 私有仓库，需访问权限 · 点击查看仓库" width="100%"></a>
-      <br>
-      <a href="https://github.com/393535466-dev/iphone-computer-next"><strong>掌控</strong></a><br>
-      <sub>手机控制 Mac · 私有仓库，需访问权限</sub>
+      <a href="https://github.com/393535466-dev/iphone-computer-next" title="掌控（私有仓库，需访问权限）"><img src="https://raw.githubusercontent.com/393535466-dev/393535466-dev/085f42165989714257e442bb60bbb12260ded561/assets/projects/palm-control.png" alt="掌控" width="100%"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/393535466-dev/-GU1112"><img src="assets/projects/lazy-stock.png" alt="懒人识股 · A 股筛选与分析 · 点击查看仓库" width="100%"></a>
-      <br>
-      <a href="https://github.com/393535466-dev/-GU1112"><strong>懒人识股</strong></a><br>
-      <sub>A 股筛选与分析</sub>
+      <a href="https://github.com/393535466-dev/-GU1112"><img src="https://raw.githubusercontent.com/393535466-dev/393535466-dev/085f42165989714257e442bb60bbb12260ded561/assets/projects/lazy-stock.png" alt="懒人识股" width="100%"></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/393535466-dev/Scabby-Head-1105"><img src="assets/projects/brain-fart.png" alt="臭脑子 · 灵感记录与创作 · 点击查看仓库" width="100%"></a>
-      <br>
-      <a href="https://github.com/393535466-dev/Scabby-Head-1105"><strong>臭脑子</strong></a><br>
-      <sub>灵感记录与创作</sub>
+      <a href="https://github.com/393535466-dev/Scabby-Head-1105"><img src="https://raw.githubusercontent.com/393535466-dev/393535466-dev/085f42165989714257e442bb60bbb12260ded561/assets/projects/brain-fart.png" alt="臭脑子" width="100%"></a>
     </td>
   </tr>
 </table>
